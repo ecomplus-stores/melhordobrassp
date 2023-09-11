@@ -13,6 +13,14 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-3.webp"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-4.webp"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-5.webp"
     }
   ]
 }
