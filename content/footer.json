@@ -4,18 +4,18 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Páginas",
     "list": []
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
   "contacts": {
     "title": "Contatos",
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true,
     "email": true,
     "address": true
@@ -26,6 +26,10 @@
       "alt": "Secure connection",
       "width": 150,
       "height": 62
+    },
+    {
+      "src": "/img/uploads/desenvolvido-por-labelle.png",
+      "link": "https://www.instagram.com/labelle.dsgn/"
     }
   ],
   "payment_methods": {
@@ -35,7 +39,7 @@
     "elo": true,
     "amex": true,
     "hipercard": true,
-    "boleto": true
+    "boleto": false
   },
   "credits": ""
 }
