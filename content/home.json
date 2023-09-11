@@ -26,6 +26,10 @@
       "type": "responsive-banner",
       "img": "/img/uploads/banner-6.webp",
       "link": "https://melhordobrassp.netlify.app/lista-de-fornecedores"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-7.webp"
     }
   ]
 }
