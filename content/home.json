@@ -9,6 +9,10 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-2.webp"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-3.webp"
     }
   ]
 }
