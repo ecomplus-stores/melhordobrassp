@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.43c702f6f8fc1f0eb27fe57620f417ed.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.d75f8a5e00910f23085c440df90c1563.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.d58a93a1857757c5071753c4eff01e3c.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.0ade2460774883db90e7784583163561.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.924a470d47207ed8d5d093db10320b92.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Melhor do Brás SP",
+  "short_name": "Melhor do Brás SP",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "melhordobrassp",
+  "background_color": "#fcf7fa",
+  "theme_color": "#f69ed2"
+}
