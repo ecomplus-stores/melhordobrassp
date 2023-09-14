@@ -4,35 +4,42 @@
   "sections": [
     {
       "type": "responsive-banner",
+      "link": "https://www.melhordobrassp.com.br/lista-de-fornecedores",
       "img": "/img/uploads/banner-1-.webp"
     },
     {
       "type": "responsive-banner",
+      "link": "https://www.melhordobrassp.com.br/lista-de-fornecedores",
       "img": "/img/uploads/banner-2.webp"
     },
     {
       "type": "responsive-banner",
+      "link": "https://www.melhordobrassp.com.br/lista-de-fornecedores",
       "img": "/img/uploads/banner-3.webp"
     },
     {
       "type": "responsive-banner",
+      "link": "https://www.melhordobrassp.com.br/lista-de-fornecedores",
       "img": "/img/uploads/banner-4.webp"
     },
     {
       "type": "responsive-banner",
+      "link": "https://www.melhordobrassp.com.br/lista-de-fornecedores",
       "img": "/img/uploads/banner-5.webp"
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-6.webp",
-      "link": "https://melhordobrassp.netlify.app/lista-de-fornecedores"
+      "link": "https://www.melhordobrassp.com.br/lista-de-fornecedores",
+      "img": "/img/uploads/banner-6.webp"
     },
     {
       "type": "responsive-banner",
+      "link": "https://www.melhordobrassp.com.br/lista-de-fornecedores",
       "img": "/img/uploads/banner-7.webp"
     },
     {
       "type": "responsive-banner",
+      "link": "https://www.melhordobrassp.com.br/lista-de-fornecedores",
       "img": "/img/uploads/banner-8.webp"
     }
   ]
